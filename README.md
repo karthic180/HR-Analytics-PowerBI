@@ -24,7 +24,7 @@ IBM HR Analytics Employee Attrition & Performance (Kaggle)
 - Employee Insights
 
 ## Dashboard Preview
-(Add screenshots here)
+(https://github.com/karthic180/HR-Analytics-PowerBI/blob/main/IBM%20HR%20Analytics%20Employee%20Attrition.pdf)
 
 ## Skills Demonstrated
 - Data Cleaning
