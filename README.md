@@ -4,7 +4,7 @@
 https://github.com/karthic180/HR-Analytics-PowerBI
 
 ## Project Overview
-This Power BI project analyzes employee attrition using the IBM HR Analytics dataset. It demonstrates data transformation, DAX calculations, interactive reporting, and dashboard design.
+This Power BI dashboard anaylse employee attrition using the IBM HR Analytics dataset. It demonstrates data transformation, DAX calculations, interactive reporting, and dashboard design.
 
 ## Dataset
 IBM HR Analytics Employee Attrition & Performance (Kaggle)
