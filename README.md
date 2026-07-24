@@ -4,41 +4,34 @@
 https://github.com/karthic180/HR-Analytics-PowerBI
 
 ## Project Overview
-This Power BI dashboard anaylse employee attrition using the IBM HR Analytics dataset. It demonstrates data transformation, DAX calculations, interactive reporting, and dashboard design.
+This Power BI dashboard analyzes employee attrition using the IBM HR Analytics dataset. It demonstrates professional data transformation, enterprise-grade DAX calculations, interactive reporting, and polished dashboard design.
 
 ## Dataset
-IBM HR Analytics Employee Attrition & Performance ([Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-Dataset))
+IBM HR Analytics Employee Attrition & Performance ([Kaggle Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset))
 
-## Tools
+## Tools & Technologies
 - Power BI Desktop
-- Power Query
-- DAX
-- GitHub
+- Power Query (Data Wrangling & Star Schema Modeling)
+- DAX (Data Analysis Expressions)
+- GitHub (Version Control & Portfolio Documentation)
 
-## Features
-- Executive Summary Dashboard
-- Attrition Analysis Dashboard
-- Interactive Slicers
-- KPI Cards
-- DAX Measures
-- Employee Insights
+## Key Features
+- **Executive Summary Dashboard:** High-level corporate KPIs tracking macro headcount, average monthly income, and overall turnover rate.
+- **Attrition Analysis Dashboard:** Deep dive into high-risk job roles (such as Sales Representatives at ~40% attrition) and demographic risk zones (concentrated in the 26–35 age bracket).
+- **Interactive Controls:** Synchronized global slicers for Department, Job Role, and Gender filtering.
+- **Advanced DAX & Time Intelligence:** Year-over-Year (YoY) variance tracking, dynamic role highlighters, and calculated risk tier segmentations.
 
 ## Skills Demonstrated
-- Data Cleaning
-- Data Modeling
-- DAX
-- Report Design
-- Interactive Visualizations
+- Star Schema Data Modeling & Relationship Optimization
+- Clean Data Cleaning & Power Query Pipelines
+- Advanced DAX Calculations & Calculated Tables
+- Corporate UI/UX Design Standards (Semantic color systems and visual hierarchy)
 
-## Dataset
+---
 
-IBM HR Analytics Employee Attrition & Performance
+## Core DAX Code & Logic
 
-Kaggle:
-https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-
-## DAX
-
+```dax
 -- =========================================================================
 -- CALCULATED TABLES (Data Modeling & Dimensions)
 -- =========================================================================
@@ -95,7 +88,6 @@ ADDCOLUMNS(
         "Established"
     )
 )
-
 
 -- =========================================================================
 -- CORE ENTERPRISE CALCULATED MEASURES
