@@ -26,6 +26,8 @@ IBM HR Analytics Employee Attrition & Performance ([Kaggle Dataset](https://www.
 - Clean Data Cleaning & Power Query Pipelines
 - Advanced DAX Calculations & Calculated Tables
 - Corporate UI/UX Design Standards (Semantic color systems and visual hierarchy)
+## Screenshots
+https://github.com/karthic180/HR-Analytics-PowerBI/blob/main/IBM%20HR%20Analytics%20Employee%20Attrition.pdf
 
 ---
 
